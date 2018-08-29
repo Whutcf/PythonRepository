@@ -1,2 +1,2 @@
 # PythonRepository
-Just to collect python packets
+Just to collect python packages
